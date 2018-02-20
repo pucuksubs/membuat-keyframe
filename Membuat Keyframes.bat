@@ -1,7 +1,7 @@
 @echo off
 
-REM Press Win+R, type "shell:sendto" and put this batch script there. Now you can just right-click, go to "Send to" and select "Create Pass File"
-REM Requirements
+REM Tekan Win+R, tulis "shell:sendto" dan simpan skrip .bat ini di sana. Sekarang tinggal klik kanan, ke "Send to" dan pilih "Membuat Berkas Pass"
+REM Bahan yang dibutuhkan
 REM * SCXvid-standalone: https://github.com/soyokaze/SCXvid-standalone/releases
 REM * FFmpeg: http://ffmpeg.zeranoe.com/builds/
 
