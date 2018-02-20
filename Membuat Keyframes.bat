@@ -5,7 +5,7 @@ REM Requirements
 REM * SCXvid-standalone: https://github.com/soyokaze/SCXvid-standalone/releases
 REM * FFmpeg: http://ffmpeg.zeranoe.com/builds/
 
-if exist D:\Encoding_Tools\bin set PATH=%PATH%;D:\Encoding_Tools\bin
+if exist X:\Lokasi berkas yang dibutuhkan set PATH=%PATH%;X:\Lokasi berkas yang dibutuhkan
 
 echo Creating Keyframes...
 set video="%~1"
